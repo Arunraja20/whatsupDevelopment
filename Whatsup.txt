@@ -6,3 +6,4 @@ Author: Raj
 2. Chat Screen Code
 3. Last Seen Code
 4. Attachments (Image, Audio, Vedio,Documents) code
+Hidinng the last seen 
