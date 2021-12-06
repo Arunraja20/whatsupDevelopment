@@ -1,0 +1,8 @@
+This is WHATSUP CODE:
+
+Author: Raj
+
+1. Profile Page code
+2. Chat Screen Code
+3. Last Seen Code
+4. Attachments (Image, Audio, Vedio,Documents) code
